@@ -24,14 +24,11 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
    * Built a predictive loan risk model using LightGBM and SMOTE for class imbalance.
    * Features a FastAPI backend, Tailwind CSS frontend, and Supabase PostgreSQL database.
 
-3. **[SleepGuard AI](https://github.com/UmaSupraja/SleepGuard-AI)** — *Health Monitoring Platform*
+3. **[Three-Stage-Neural-Network-Architecture-for-Sleep-Analysis](https://github.com/UmaSupraja/Three-Stage-Neural-Network-Architecture-for-Sleep-Analysis-)** — *Health Monitoring Platform*
    * Multi-stage neural network framework predicting sleep disorders from physiological/lifestyle metrics.
    * Interactive React & TypeScript dashboard interface.
 
-4. **[HR Analytics Dashboard](https://github.com/UmaSupraja/HR-Analytics-Dashboard)** — *Interactive Power BI Reporting*
-   * Enterprise-level Power BI dashboard tracking organizational HR metrics, attrition rate, and employee distributions.
-
-5. **[Cybercrime Analysis Dashboard](https://github.com/UmaSupraja/Cybercrime-Analysis)** — *National Trends Visualizer*
+4. **[Cybercrime Analysis Dashboard](https://github.com/UmaSupraja/Interactive-Cybercrime-Dashboard)** — *National Trends Visualizer*
    * Streamlit & Plotly interactive web dashboard analyzing NCRB cybercrime datasets.
 
 ---

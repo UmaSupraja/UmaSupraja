@@ -38,6 +38,6 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
 
 ###  Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/uma-supraja](https://www.linkedin.com/in/suprajaputrevu/)
-* 📧 **Email:** [your.email@example.com](suprajaputrevu@example.com)
-** Phone:** [+91 XXXXXXXXXX](tel:+919398074876)
+*   **LinkedIn:** [linkedin.com/in/uma-supraja](https://www.linkedin.com/in/suprajaputrevu/)
+*   **Email:** [your.email@example.com](suprajaputrevu@example.com)
+*   **Phone:** [+91 XXXXXXXXXX](tel:+919398074876)

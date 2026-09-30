@@ -30,6 +30,11 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
 
 4. **[Cybercrime Analysis Dashboard](https://github.com/UmaSupraja/Interactive-Cybercrime-Dashboard)** — *National Trends Visualizer*
    * Streamlit & Plotly interactive web dashboard analyzing NCRB cybercrime datasets.
+  
+5. [**LangGraph-Pinecone-RAG-Chatbot**](https://github.com/UmaSupraja/LangGraph-Pinecone-RAG-Chatbot) — *Agentic RAG Chatbot*
+   - Built a grounded Retrieval-Augmented Generation (RAG) chatbot using LangGraph, Pinecone, and Google Gemini.
+   - Implements document retrieval, relevance grading, groundedness validation, and out-of-scope question handling.
+   - Full-stack application with a React & TypeScript frontend and Express backend.
 
 ---
 

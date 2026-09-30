@@ -19,7 +19,7 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
 
 1. **[AI-Powered-Sports-Quiz-Generation-Agent](https://github.com/UmaSupraja/AI-Powered-Sports-Quiz-Generation-Agent)** — *Autonomous Quiz Generation Agent*
    * An intelligent AI agent that dynamically creates sports trivia and quiz assessments from real-time topics and custom inputs.
-   * 
+     
 2. [**LangGraph-Pinecone-RAG-Chatbot**](https://github.com/UmaSupraja/LangGraph-Pinecone-RAG-Chatbot) — *Agentic RAG Chatbot*
    - Built a grounded Retrieval-Augmented Generation (RAG) chatbot using LangGraph, Pinecone, and Google Gemini.
    - Implements document retrieval, relevance grading, groundedness validation, and out-of-scope question handling.

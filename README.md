@@ -36,9 +36,11 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
 5. **[Cybercrime Analysis Dashboard](https://github.com/UmaSupraja/Interactive-Cybercrime-Dashboard)** — *National Trends Visualizer*
    * Streamlit & Plotly interactive web dashboard analyzing NCRB cybercrime datasets.
   
-6.**[Home Credit LAP AI Voice Agent](https://github.com/UmaSupraja/Home-Credit-AI-Voice-Agent)** — *National Trends Visualizer*
+6. **[Home Credit LAP AI Voice Agent](https://github.com/UmaSupraja/Home-Credit-AI-Voice-Agent)** — *National Trends Visualizer*
    * An AI voice-agent prototype designed to demonstrate an initial Loan Against Property (LAP) qualification conversation.
-   * The agent verifies the intended customer, explains a preliminary offer of up to ₹75,00,000, collects eligibility information, handles disqualification, and identifies when a request should be routed to a loan-transfer specialist.
+   * The agent verifies the intended customer, explains a preliminary offer of up to ₹75,00,000, collects eligibility information, handles disqualification, and        identifies when a request should be routed to a loan-transfer specialist.
+  
+     
 ---
 
 ###  Connect with Me

@@ -28,17 +28,19 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
 3. **[Three-Stage-Neural-Network-Architecture-for-Sleep-Analysis](https://github.com/UmaSupraja/Three-Stage-Neural-Network-Architecture-for-Sleep-Analysis-)** — *Health Monitoring Platform*
    * Multi-stage neural network framework predicting sleep disorders from physiological/lifestyle metrics.
    * Interactive React & TypeScript dashboard interface.
+
+4. **[Home Credit LAP AI Voice Agent](https://github.com/UmaSupraja/Home-Credit-AI-Voice-Agent)** — *AI Voice Agent*
+   * An AI voice-agent prototype designed to demonstrate an initial Loan Against Property (LAP) qualification conversation.
+   * The agent verifies the intended customer, explains a preliminary offer of up to ₹75,00,000, collects eligibility information, handles disqualification, and        identifies when a request should be routed to a loan-transfer specialist.
   
-4. **[Credit-Path-AI](https://github.com/UmaSupraja/Credit-Path-AI)** — *Loan Risk Assessment System*
+5. **[Credit-Path-AI](https://github.com/UmaSupraja/Credit-Path-AI)** — *Loan Risk Assessment System*
    * Built a predictive loan risk model using LightGBM and SMOTE for class imbalance.
    * Features a FastAPI backend, Tailwind CSS frontend, and Supabase PostgreSQL database.
 
-5. **[Cybercrime Analysis Dashboard](https://github.com/UmaSupraja/Interactive-Cybercrime-Dashboard)** — *National Trends Visualizer*
+6. **[Cybercrime Analysis Dashboard](https://github.com/UmaSupraja/Interactive-Cybercrime-Dashboard)** — *National Trends Visualizer*
    * Streamlit & Plotly interactive web dashboard analyzing NCRB cybercrime datasets.
   
-6. **[Home Credit LAP AI Voice Agent](https://github.com/UmaSupraja/Home-Credit-AI-Voice-Agent)** — *National Trends Visualizer*
-   * An AI voice-agent prototype designed to demonstrate an initial Loan Against Property (LAP) qualification conversation.
-   * The agent verifies the intended customer, explains a preliminary offer of up to ₹75,00,000, collects eligibility information, handles disqualification, and        identifies when a request should be routed to a loan-transfer specialist.
+
   
      
 ---

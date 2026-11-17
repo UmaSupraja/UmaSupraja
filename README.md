@@ -16,7 +16,7 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
 1. [AI-Powered-Sports-Quiz-Generation-Agent](https://github.com/UmaSupraja/AI-Powered-Sports-Quiz-Generation-Agent) — Autonomous Quiz Generation Agent
    * An intelligent AI agent that dynamically creates sports trivia and quiz assessments from real-time topics and custom inputs.
 
-2. [GroundedGraph-Chatbot](https://github.com/UmaSupraja/LangGraph-Pinecone-RAG-Chatbot) — Agentic RAG Chatbot ([Live Demo](https://langgraph-pinecone-rag-chatbot.onrender.com/))
+2. [GroundedGraph-Chatbot](https://github.com/UmaSupraja/LangGraph-Pinecone-RAG-Chatbot) — Agentic RAG Chatbot
    * Agentic RAG chatbot built with LangGraph, Pinecone and Google Gemini, answering from an eBook with relevance grading, groundedness checks and source page references.
    * Full-stack React, TypeScript and Express app deployed on Render.
 
@@ -24,7 +24,7 @@ I specialize in building end-to-end data pipelines, intelligent AI agents, machi
    * Multi-stage neural network framework predicting sleep disorders from physiological/lifestyle metrics.
    * Interactive React & TypeScript dashboard interface.
 
-4. [Home Credit LAP AI Voice Agent](https://github.com/UmaSupraja/Home-Credit-AI-Voice-Agent) — AI Voice Agent ([Live Demo](https://home-credit-ai-voice-agent.onrender.com))
+4. [Home Credit LAP AI Voice Agent](https://github.com/UmaSupraja/Home-Credit-AI-Voice-Agent) — AI Voice Agent 
    * Voice-agent prototype for Loan Against Property qualification, built with Bolna, GPT-4.1 mini, ElevenLabs and Deepgram.
    * Verifies the customer, applies eligibility rules, remembers out-of-order answers and routes loan-transfer requests to a specialist.
 
